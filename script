@@ -1,0 +1,3 @@
+
+cat intro.md ./code/bits.md ./code/data_structures.md ./code/graph.md ./code/sorting.md ./code/string.md > coding.md
+pandoc coding.md -f markdown -t html --template=template.txt --toc > coding.html

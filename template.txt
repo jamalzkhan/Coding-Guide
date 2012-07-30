@@ -1,0 +1,21 @@
+<h1>Jamal's Guide to Coding and Algorithms 2011</h1>
+<p>
+  This project was created to help people with coding and algorithms.
+</p>
+<p>
+  All the examples presented here are implementations in Java or Python. 
+</p>
+<p>
+  The author takes no responsibility for any misguidance or wrong answers, use at your own peril!
+</p>
+
+<title> Jamming to the Coding Interview </title>
+<h4>
+  Table of Contents
+</h4>
+
+$toc$
+$body$
+
+
+<LINK href="markdown.css" rel="stylesheet" type="text/css">
