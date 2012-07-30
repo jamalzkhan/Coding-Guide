@@ -6,7 +6,7 @@
 
 ## How to compile
 
-- All the code is in the /code directory
+- All the code is in the '/code' directory
 - I use the [pandoc](http://johnmacfarlane.net/pandoc/) tool to compile all the markdown to html.
-- the file 'script' does concatenates all the files from /code and outputs to 'coding.html'.
+- the file 'script' concatenates all the files from '/code' and outputs to 'coding.html'.
 
